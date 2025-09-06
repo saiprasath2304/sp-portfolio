@@ -1,4 +1,3 @@
-// import Image from "next/image";
 import { 
   Mail, 
   Github, 
@@ -7,11 +6,8 @@ import {
   Code, 
   Database, 
   Server, 
-  // Smartphone,
   Globe,
   Shield,
-  // Zap,
-  // Users,
   Calendar,
   MapPin,
   ExternalLink,
