@@ -189,7 +189,7 @@ export default function Home() {
                 Get In Touch
               </a>
               <a 
-                href="/saiprasath_b_resume.pdf" 
+                href="/saiprasath_resume.pdf" 
                 className="border border-blue-600 text-blue-600 hover:bg-blue-50 dark:hover:bg-blue-900/20 px-8 py-3 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2"
               >
                 <Download className="w-5 h-5" />
