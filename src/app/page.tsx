@@ -11,7 +11,8 @@ import {
   Calendar,
   MapPin,
   ExternalLink,
-  Phone
+  Phone,
+  BookOpen
 } from "lucide-react";
 
 export default function Home() {
@@ -122,13 +123,13 @@ export default function Home() {
     {
       title: "Django application with allauth configuration",
       date: "Jul 2024",
-      link: "https://github.com/saiprasath/django-allauth",
+      link: "https://medium.com/django-unleashed/django-application-with-allauth-configuration-8df4d94e5a5d",
       description: "Comprehensive guide for implementing Django allauth configuration"
     },
     {
       title: "Integrating Snowflake OAuth with Django",
       date: "Aug 2024", 
-      link: "https://github.com/saiprasath/snowflake-oauth",
+      link: "https://medium.com/snowflake/integrating-snowflake-oauth-with-django-a-step-by-step-guide-a70ab3312282",
       description: "Technical implementation guide for Snowflake OAuth integration"
     }
   ];
@@ -433,8 +434,8 @@ export default function Home() {
                   rel="noopener noreferrer"
                   className="text-green-600 hover:text-green-700 dark:text-green-400 dark:hover:text-green-300 flex items-center gap-2"
                 >
-                  <Github className="w-4 h-4" />
-                  View on GitHub
+                  <BookOpen className="w-4 h-4" />
+                  View on Medium
                 </a>
               </div>
             ))}
