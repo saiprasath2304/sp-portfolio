@@ -43,7 +43,7 @@ export default function Home() {
     },
     { 
       category: "Testing/Automation", 
-      items: ["Playwright", "Selenium", "Jest"] 
+      items: ["Playwright", "Selenium", "Jest", "Burpsuite"] 
     },
     {
       category: "Relevant Coursework",
@@ -74,7 +74,7 @@ export default function Home() {
       degree: "MCA (Master of Computer Applications)",
       institution: "SRM Institute of Science And Technology",
       period: "Dec 2023 – Dec 2025",
-      status: "Pursuing"
+      status: "Completed"
     },
     {
       degree: "BSc. in Mathematics",
