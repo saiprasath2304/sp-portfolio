@@ -451,7 +451,7 @@ export default function Home() {
             I'm always interested in new opportunities and exciting projects. 
             Feel free to reach out if you'd like to collaborate or just want to say hello!
           </p>
-          <div className="grid md:grid-cols-3 gap-4 mb-8">
+          <div className="grid md:grid-cols-2 gap-4 mb-8">
             <div className="flex items-center justify-center gap-2 text-slate-600 dark:text-slate-300">
               <Mail className="w-5 h-5" />
               <span>sp.pers23@gmail.com</span>
@@ -479,7 +479,7 @@ export default function Home() {
               GitHub
             </a>
             <a 
-              href="https://linkedin.com/in/saiprasath2304" 
+              href="https://linkedin.com/in/saiprasath23" 
               target="_blank" 
               rel="noopener noreferrer"
               className="border border-slate-300 dark:border-slate-600 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700 px-8 py-3 rounded-lg font-semibold transition-colors flex items-center justify-center gap-2"
