@@ -457,10 +457,6 @@ export default function Home() {
               <span>sp.pers23@gmail.com</span>
             </div>
             <div className="flex items-center justify-center gap-2 text-slate-600 dark:text-slate-300">
-              <Phone className="w-5 h-5" />
-              <span>+91 9962441790</span>
-            </div>
-            <div className="flex items-center justify-center gap-2 text-slate-600 dark:text-slate-300">
               <MapPin className="w-5 h-5" />
               <span>Chennai, India</span>
             </div>
@@ -508,7 +504,7 @@ export default function Home() {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-slate-900 dark:bg-slate-950 text-white">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-slate-400">
-            © 2025 Saiprasath B. Built with ❤ using Next.js and Tailwind CSS.
+            © 2025 Saiprasath B. Built with ❤ by Saiprasath.
           </p>
         </div>
       </footer>
